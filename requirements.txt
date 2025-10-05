@@ -1,0 +1,37 @@
+# Core Python
+python-dotenv
+tqdm
+
+# Streamlit UI
+streamlit
+Pillow
+PyPDF2
+pdf2image
+pytesseract
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# OpenAI API (for GPT-4.1)
+openai
+
+# Vector Database
+faiss-cpu
+
+# Transformers & Tokenizers (for embeddings if extended)
+transformers
+torch
+sentence_transformers
+sentencepiece
+huggingface-hub
+
+# Document processing
+tiktoken
+
+# For structured data handling
+pydantic
+
